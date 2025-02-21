@@ -8,7 +8,7 @@
       <div class="bullshit__info">
         该页面无法访问。
         <a style="color: #20a0ff" href="https://www.youlai.tech.com" target="_blank">
-          有来开源官网
+          火花开源官网
         </a>
       </div>
       <div class="bullshit__headline">抱歉，您访问的页面不存在。</div>

@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Element Plus-2.8.5-blue.svg"/>
   <img src="https://img.shields.io/badge/license-MIT-green.svg"/>
   <a href="https://gitee.com/youlaiorg" target="_blank">
-      <img src="https://img.shields.io/badge/Author-有来开源组织-orange.svg"/>
+      <img src="https://img.shields.io/badge/Author-火花开源组织-orange.svg"/>
   </a>
 </div>
 
@@ -117,7 +117,7 @@ server {
 	# 反向代理配置
 	location /prod-api/ {
       # api.youlai.tech 替换后端API地址，注意保留后面的斜杠 /
-      proxy_pass http://api.youlai.tech/; 
+      proxy_pass http://api.youlai.tech/;
 	}
 }
 ```
@@ -190,14 +190,3 @@ Thanks to all the contributors!
 ![](https://foruda.gitee.com/images/1728577513089814203/95f2a70d_716974.jpeg)
 
 ## 交流群🚀
-
-> **关注「有来技术」公众号，获取交流群二维码。**
->
-> 如果交流群的二维码过期，请加微信(haoxianrui)并备注「前端」、「后端」或「全栈」以获取最新二维码。
->
-> 为确保交流群质量，防止营销广告人群混入，我们采取了此措施。望各位理解！
-
-| 公众号 | 交流群 |
-|:----:|:----:|
-| ![有来技术公众号二维码](https://foruda.gitee.com/images/1687689212187063809/3c69eaee_716974.png) | ![交流群二维码](https://foruda.gitee.com/images/1687689212139273561/6a65ef69_716974.png) |
-
