@@ -1,3 +1,5 @@
+<!-- 可以通过安装 FullCalendar 插件实现事件日历管理 -->
+<!-- npm install @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @fullcalendar/interaction -->
 <template>
   <SearchForm :updateTableList="updateTableList" :conditionList="conditionList" />
   <div class="calendar-container">

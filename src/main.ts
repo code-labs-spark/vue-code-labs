@@ -4,6 +4,8 @@ import setupPlugins from "@/plugins";
 
 // 本地SVG图标
 import "virtual:svg-icons-register";
+//单独引入 Element Plus 样式
+import "element-plus/theme-chalk/src/index.scss";
 // 暗黑主题样式
 import "element-plus/theme-chalk/dark/css-vars.css";
 // 暗黑模式自定义变量

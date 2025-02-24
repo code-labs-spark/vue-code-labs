@@ -32,10 +32,8 @@ export default defineConfig(({ mode }: ConfigEnv): UserConfig => {
       preprocessorOptions: {
         // 定义全局 SCSS 变量
         scss: {
-          api: "modern-compiler",
           additionalData: `
             @use "@/styles/variables.scss" as *;
-            @use "element-plus/theme-chalk/src/index.scss" as *; 
           `,
         },
       },
